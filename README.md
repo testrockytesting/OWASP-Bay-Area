@@ -1,15 +1,23 @@
 # OWASP-Bay-Area
+
 This is the Bay Area event git.
+
 You can find the presentation at [Google Docs](https://docs.google.com/presentation/d/1n3NigZdb0HNGPXDpIivem8T4gmo7LueHUvr62qjlQrg/edit?usp=sharing).
 
 
 ## Preparation
+
+**Please dowlnoad our PPTX with detailed instructions on how to setup everything:**
+https://github.com/sushi2k/OWASP-Bay-Area/blob/master/Preparation-Bay-Area-Workshop.pptx
+
 In order to be able to participate, we recommend that you:
 - Install docker on your laptop
 - Have Python 3 and pip3 (Todo: Install instructions) installed on your laptop when running MacOS X
 - Optionally: have iOS with a jailbreak installed to play around during iOS demos
 - Install android 7 and Android 8 emulators (see android folder)
 - Install objection and BurpSuite (community edition)
+
+
 
 ## Android
 
