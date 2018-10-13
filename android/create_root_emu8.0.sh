@@ -16,7 +16,7 @@ adb push xposed8.zip /data/xposed/xposed.zip
 adb shell chmod 0755 /data/xposed
 adb shell 'sh -c "./data/unzip /data/xposed/xposed.zip -d /data/xposed/"'
 adb shell 'sh -c "cp /data/xposed/xposed/META-INF/com/google/android/*.* /data/xposed/xposed/"'
-echo "Now start the su ./data/xposed/xposed/Flash-Script.sh as ADB shell after installing SUperSU"
+echo "Now adb shell and do 'su', next: go to ./data/xposed/xposed, make flash-script.sh executable and run it in that directory after running SUperSU"
 echo "Next, restart emulator"
 echo "Next, adb install XposedInstaller_3.1.5.apk"
 echo "Next, run installer and then adb reboot"
