@@ -11,6 +11,7 @@ You can find the presentation at [Google Docs](https://docs.google.com/presentat
 https://github.com/sushi2k/OWASP-Bay-Area/blob/master/Preparation-Bay-Area-Workshop.pptx
 
 In order to be able to participate, we recommend that you:
+- Install git-lfs & do a git-lfs pull
 - Install docker on your laptop
 - Have Python 3 and pip3 (Todo: Install instructions) installed on your laptop when running MacOS X
 - Optionally: have iOS with a jailbreak installed to play around during iOS demos
