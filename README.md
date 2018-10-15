@@ -22,5 +22,5 @@ In order to be able to participate, we recommend that you:
 ## Android
 
 in the android folder, you can find 2 large zip files of emulators. Next you can find the scripts to generate them yourself (e.g. create_root_emu<androidversion>.sh). See the README.md for more details.
-  
-  
+
+Note: in order to download the emulators, you need to do `git-lfs pull`.
